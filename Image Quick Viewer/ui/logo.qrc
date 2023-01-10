@@ -1,0 +1,66 @@
+<RCC>
+  <qresource prefix="logo"/>
+  <qresource prefix="toolbar">
+    <file>../data/all3.png</file>
+    <file>../data/single.png</file>
+    <file>../data/cloud.png</file>
+    <file>../data/all3.png</file>
+    <file>../data/cut.png</file>
+    <file>../data/camera.png</file>
+    <file>../data/fullscreen.png</file>
+    <file>../data/cannotsee.png</file>
+    <file>../data/cansee.png</file>
+    <file>../data/send.png</file>
+    <file>../data/same.png</file>
+    <file>../data/linecut.png</file>
+    <file>../data/cbar.png</file>
+    <file>../data/gray.png</file>
+    <file>../data/color.png</file>
+    <file>../data/light.png</file>
+    <file>../data/net.png</file>
+    <file>../data/reverse.png</file>
+    <file>../data/clear.png</file>
+    <file>../data/copy.png</file>
+    <file>../data/paste.png</file>
+    <file>../data/export.png</file>
+    <file>../data/full_view.png</file>
+    <file>../data/AVG.png</file>
+    <file>../data/Q.png</file>
+    <file>../data/All_1.png</file>
+    <file>../data/All_2.png</file>
+    <file>../data/All.png</file>
+    <file>../data/All_.png</file>
+    <file>../data/scanner.png</file>
+    <file>../data/left.png</file>
+    <file>../data/right.png</file>
+    <file>../data/left_right.png</file>
+    <file>../data/up_down.png</file>
+    <file>../data/rotate.png</file>
+    <file>../data/open.png</file>
+    <file>../data/saveas.png</file>
+    <file>../data/save.png</file>
+    <file>../data/Reset.png</file>
+  </qresource>
+  <qresource prefix="menuIcon">
+    <file>../data/bear.png</file>
+    <file>../data/bear_and_beehive_1.png</file>
+    <file>../data/bear_and_beehive_2.png</file>
+    <file>../data/shark_and_lollipop_1.png</file>
+    <file>../data/shark_and_lollipop_2.png</file>
+    <file>../data/sea-lion-1.png</file>
+    <file>../data/sea-lion-2.png</file>
+    <file>../data/pack_1.png</file>
+    <file>../data/pack_2.png</file>
+    <file>../data/penguin_2.png</file>
+    <file>../data/penguin_1.png</file>
+    <file>../data/select.png</file>
+    <file>../data/peaks.png</file>
+    <file>../data/curve2.png</file>
+    <file>../data/calc.png</file>
+    <file>../data/curve.png</file>
+    <file>../data/panda_1.png</file>
+    <file>../data/panda_2.png</file>
+    <file>../data/info.png</file>
+  </qresource>
+  <qresource prefix="indication"/>
+</RCC>
